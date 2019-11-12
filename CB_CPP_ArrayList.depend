@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1573520303 source:c:\users\jashliao\desktop\cb_cpp_arraylist\main.cpp
+	<vector>
+	<algorithm>
+	<iostream>
+	<cstdio>
+
